@@ -1,0 +1,28 @@
+.page-item a {
+    border: none;
+    color: #474955;
+    font-size: 18px;
+
+}
+
+.btn-prev {
+    margin-right: 375px;
+}
+
+.btn-prev button {
+    border: none;
+    background: none;
+    color: #474955;
+    font-size: 24px;
+}
+
+.btn-next {
+    margin-left: 389px;
+}
+
+.btn-next button {
+    border: none;
+    background: none;
+    color: #474955;
+    font-size: 24px;
+}
